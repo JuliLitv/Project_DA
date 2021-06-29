@@ -191,7 +191,7 @@ ggplot(data = q3, aes(x = seatbelt , y =count)) + geom_col()
 
 <h2>References</h2>
 About BRFSS. Accessed from: <a href= 'https://www.cdc.gov/brfss/about/index.htm'>brfss</a>
-The BRFSS Data User Guide. Accessed from:<a href=https://www.cdc.gov/brfss/data_documentation/pdf/UserguideJune2013.pdf >UserguideJune2013.pdf</a>
+The BRFSS Data User Guide. Accessed from:<a href='https://www.cdc.gov/brfss/data_documentation/pdf/UserguideJune2013.pdf'>UserguideJune2013.pdf</a>
 </pre>
 </body>
 </html>
